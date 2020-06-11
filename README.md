@@ -1,8 +1,6 @@
 
 # KLO ADA YG MAU DIGANTI DI HTMLNYA KASIH TAU GW BIAR GW GANTI TERUS GW UPDATE
 
-# yang file `.nojekyll` sama `README.md` nanti jangan di submit yaa
-
 # Table of Contents
 - [Struktur Folder](#struktur-folder)
 - [Info](#info)
@@ -169,6 +167,10 @@ Gallery:
 
 5. Lore background image: https://images.alphacoders.com/624/thumb-1920-624082.jpg
 
-JQUERY SLIDER: https://www.youtube.com/watch?v=J2HLW4A40X8
-BACKGROUND GRADASI: https://cssgradient.io/
+https://www.youtube.com/watch?v=J2HLW4A40X8
+https://cssgradient.io/
+https://stackoverflow.com/questions/11159221/check-if-checkbox-is-not-checked-on-click-jquery
+https://www.w3schools.com/html/html5_video.asp
+https://stackoverflow.com/questions/2275702/jquery-first-child-of-this
+https://stackoverflow.com/questions/554273/changing-the-image-source-using-jquery
 ```
