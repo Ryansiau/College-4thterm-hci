@@ -21,7 +21,7 @@ $(document).ready(function() {
 	});
 
 	$(".galleries__button").click(function() {
-		$(".galleries__big-image").attr("src", $(this).children().attr("src"));
+		$(".galleries__big-image").attr("src", $(this).children(":first").attr("src"));
 	});
 
 	$("#pre-register-form").on("submit", function() {
