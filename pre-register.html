@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Pre-Register &mdash; Xtream Chaser</title>
+
+	<link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+<body>
+
+	<header class="header">
+		<div class="container header__inner">
+			<a href="index.html" class="header__logo">
+				<img src="assets/media/logo.jpg" class="header__logo-image" alt="Logo">
+				<div>Xtream Chaser</div>
+			</a>
+			<nav class="nav--web">
+				<div class="menu__item">
+					<a href="galleries.html" class="menu__link">galleries</a>
+				</div>
+				<div class="menu__item">
+					<a href="#" class="menu__link">characters &#9662;</a>
+					<div class="submenu">
+						<a href="characters.html#mari" class="submenu__link">Mari Onette</a>
+						<a href="characters.html#tristan" class="submenu__link">TristanIseult</a>
+						<a href="characters.html#inconnue" class="submenu__link">Inconnue</a>
+						<a href="characters.html#zero" class="submenu__link">X Æ A-00</a>
+					</div>
+				</div>
+				<div class="menu__item">
+					<a href="lore.html" class="menu__link">lore</a>
+				</div>
+				<div class="menu__item">
+					<a href="pre-register.html" class="menu__link menu__link--selected">pre-register</a>
+				</div>
+			</nav>
+			<nav class="nav--mobile">
+				<div class="menu__item">
+					<a href="#" class="menu__link">menu &#9662;</a>
+					<div class="submenu submenu--mobile">
+						<a href="galleries.html" class="submenu__link">galleries</a>
+						<a href="characters.html" class="submenu__link">characters</a>
+						<a href="lore.html" class="submenu__link">lore</a>
+						<a href="pre-register.html" class="submenu__link">pre-register</a>
+					</div>
+				</div>
+			</nav>
+		</div>
+	</header>
+
+	<main>
+		<div class="register">
+			<div class="container">
+				<div>
+					<h1 class="register__title">Pre-Register</h1>
+					<h2 class="register__subtitle">Register now to participate in the next beta test!</h2>
+				</div>
+
+				<form action="" method="post" id="pre-register-form" class="form">
+					<div class="form__row">
+						<div class="form__label">
+							<label for="email">E-mail:</label>
+						</div>
+						<div class="form__field">
+							<input type="text" name="email" id="email" class="form__input">
+						</div>
+					</div>
+
+					<div class="form__row">
+						<div class="form__label">
+							<label for="username">Username:</label>
+						</div>
+						<div class="form__field">
+							<input type="text" name="username" id="username" class="form__input">
+						</div>
+					</div>
+
+					<div class="form__row">
+						<div class="form__label">
+							<label for="password">Password:</label>
+						</div>
+						<div class="form__field">
+							<input type="password" name="password" id="password" class="form__input">
+						</div>
+					</div>
+
+					<div class="form__row">
+						<div class="form__label">
+							<label>Gender:</label>
+						</div>
+						<div class="form__field">
+							<input type="radio" name="gender" id="male"> <label for="male">Male</label>
+							<input type="radio" name="gender" id="female"> <label for="female">Female</label>
+						</div>
+					</div>
+
+					<div class="form__row">
+						<div class="form__label">
+							<label for="dob">Date of Birth:</label>
+						</div>
+						<div class="form__field">
+							<input type="date" name="dob" id="dob" class="form__date">
+						</div>
+					</div>
+
+					<div class="form__row">
+						<div class="form__label">
+							<label for="nation">Nation:</label>
+						</div>
+						<div class="form__field">
+							<select name="nation" id="nation" class="form__select">
+								<option value="Argentina">Argentina</option>
+								<option value="Iceland">Iceland</option>
+								<option value="Indonesia" selected>Indonesia</option>
+								<option value="Spain">Spain</option>
+							</select>
+						</div>
+					</div>
+
+					<div class="form__row">
+						<div class="form__label"></div>
+						<div class="form__field">
+							<input type="checkbox" name="tos" id="tos"> <label for="tos">I agree to the Terms and Conditions</label>
+						</div>
+					</div>
+
+					<div class="form__row">
+						<div class="form__label"></div>
+						<div class="form__field">
+							<input type="submit" value="Register" class="form__submit">
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</main>
+
+	<footer class="footer">
+		<div class="container footer__inner">
+			<h1 class="footer__title">Follow Us</h1>
+			<div class="footer__social">
+				<a href="https://facebook.com/xtremechaser" class="footer__social-link">
+					<img src="assets/media/footer/facebook.png" alt="Facebook" class="footer__social-image">
+				</a>
+				<a href="https://twitter.com/xtremechaser" class="footer__social-link">
+					<img src="assets/media/footer/twitter.png" alt="Twitter" class="footer__social-image">
+				</a>
+				<a href="https://instagram.com/xtremechaser" class="footer__social-link">
+					<img src="assets/media/footer/instagram.png" alt="Instagram" class="footer__social-image">
+				</a>
+			</div>
+			&copy; Xtream Chaser 2020
+		</div>
+	</footer>
+
+	<script src="assets/js/jquery.js"></script>
+	<script src="assets/js/main.js"></script>
+
+</body>
+</html>
