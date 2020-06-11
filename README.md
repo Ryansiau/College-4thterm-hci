@@ -1,6 +1,8 @@
 
 # KLO ADA YG MAU DIGANTI DI HTMLNYA KASIH TAU GW BIAR GW GANTI TERUS GW UPDATE
 
+# yang file `.nojekyll` sama `README.md` nanti jangan di submit yaa
+
 # Table of Contents
 - [Struktur Folder](#struktur-folder)
 - [Info](#info)
