@@ -77,7 +77,7 @@ The player plays as one of the available contestants in this game. Gameplay focu
 A righteous person who is willing to anything against evil for the sake of justice. Her father is a famous great person who was falsely accused for something he has not done. Living his entire childhood in the slums after the fall of his father. His family always lives in fear because other person sees them as evil. However, in the later days she was known as a genius. Work as a researcher that helps a lot of people. In herspare time, she also made a lot of robots which helps her throughout this battle.
 Lives as a victim of injustice in the society, she wants to reform the society to be a more just place. To be exact, he wishes for the world peace where no one overthrow each other for their own merit. She sees other participants as evil because they wanted the power for their own selfish desire.
 
-2. TristanIseult (Sieghart)
+2. Tristan Iseult (Sieghart)
 A slave for love who was betrayed by his lover, or so he thought. The truth is, however, his lover married to a king to save Tristan from being killed. He was desperate for years after seeing his ex live a happy life with her new husband. Thinking he was worthless and incapable of doing anything. He felt betrayed because of the love he gave to her turn out like this, but still couldn’t forget her even for just a single moment. He got depressed and his live was a ruin after he part with his lover.
 He wants to show his ex that he is a capable man and make her lament for him, even though the truth is his lover still loves him a lot. However, this was unseen by Tristan because the king married to his ex ban her to meet Tristan and will take heavy measure if this happen.
 
