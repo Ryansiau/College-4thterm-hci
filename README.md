@@ -56,7 +56,8 @@
 ├── galleries.html
 ├── index.html
 ├── lore.html
-└── pre-register.html
+├── pre-register.html
+└── references.md
 ```
 
 # Info
